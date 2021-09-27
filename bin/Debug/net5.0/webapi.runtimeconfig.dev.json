@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\byesil\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\byesil\\.nuget\\packages"
+    ]
+  }
+}
